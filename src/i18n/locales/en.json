@@ -1,0 +1,96 @@
+{
+  "app": {
+    "title": "PomoFocus Pro",
+    "subtitle": "Streamlined Pomodoro Clock & Task Manager"
+  },
+  "timer": {
+    "work": "Pomodoro",
+    "shortBreak": "Short Break",
+    "longBreak": "Long Break",
+    "start": "START",
+    "pause": "PAUSE",
+    "skip": "SKIP",
+    "reset": "RESET",
+    "session": "Session",
+    "completed": "Completed"
+  },
+  "activeTask": {
+    "focusingOn": "Focusing on",
+    "noActive": "No task selected. Pick or add a task below!",
+    "unselect": "Clear selection"
+  },
+  "tasks": {
+    "heading": "Tasks",
+    "addPlaceholder": "What are you working on?",
+    "addButton": "Add Task",
+    "filterAll": "All",
+    "filterActive": "To Do",
+    "filterCompleted": "Done",
+    "clearCompleted": "Clear Done",
+    "empty": "No tasks here yet. Add a task above to start your flow!",
+    "deleteConfirm": "Delete this task?",
+    "markDone": "Mark complete",
+    "markUndone": "Mark incomplete"
+  },
+  "settings": {
+    "title": "Preferences",
+    "durations": "Timer Durations (minutes)",
+    "workDuration": "Pomodoro",
+    "shortBreakDuration": "Short Break",
+    "longBreakDuration": "Long Break",
+    "longBreakInterval": "Long Break Interval (sessions)",
+    "automation": "Automation",
+    "autoStartBreaks": "Auto-start breaks",
+    "autoStartWork": "Auto-start pomodoros",
+    "sound": "Audio & Notifications",
+    "alarmSound": "Alarm Sound",
+    "soundBell": "Tibetan Bowl / Bell",
+    "soundChime": "Melodic Chime",
+    "soundDigital": "Digital Beep",
+    "volume": "Volume",
+    "testSound": "Test Sound",
+    "desktopNotifications": "Desktop Notifications",
+    "enableNotifications": "Enable Notifications",
+    "notificationsActive": "Notifications are active",
+    "notificationsBlocked": "Notifications blocked by browser",
+    "save": "Save Changes",
+    "resetDefaults": "Reset to Defaults"
+  },
+  "guide": {
+    "badge": "Productivity Guide",
+    "heading": "Master Your Time with the Pomodoro Technique",
+    "intro": "The Pomodoro Technique is a time-management method developed by Francesco Cirillo in the late 1980s. It uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.",
+    "step1Title": "1. Pick a Single Task",
+    "step1Desc": "Choose what you want to accomplish from your task list. Keep your focus on that task only.",
+    "step2Title": "2. Set 25 Minutes (Pomodoro)",
+    "step2Desc": "Start the timer and work with undivided attention until the bell chimes. Avoid all distractions.",
+    "step3Title": "3. Take a 5-Minute Break",
+    "step3Desc": "Step away from your screen. Stretch, drink water, or take deep breaths to recharge your mind.",
+    "step4Title": "4. Repeat & Take a Long Break",
+    "step4Desc": "After every 4 completed pomodoros, reward yourself with a restorative 15-30 minute break.",
+    "faqHeading": "Frequently Asked Questions",
+    "faq1Q": "Why is the Pomodoro technique so effective?",
+    "faq1A": "It creates a sense of urgency, limits multitasking, and prevents cognitive fatigue by encouraging regular rest periods.",
+    "faq2Q": "Will my tasks and settings be saved if I close the tab?",
+    "faq2A": "Yes! All tasks, theme preferences, and timer settings are securely saved in your local browser storage.",
+    "faq3Q": "Does the timer keep running if I switch tabs?",
+    "faq3A": "Yes. PomoFocus Pro uses a Web Worker and timestamp synchronization so the timer never loses precision in background tabs."
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms of Service",
+    "cookieText": "We use local storage and non-invasive cookies to enhance your experience, save preferences, and serve relevant ads.",
+    "cookieAccept": "Got it!",
+    "cookiePolicy": "Privacy Policy"
+  },
+  "ad": {
+    "sponsored": "Sponsored",
+    "bannerText": "Advertisement space"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "tagline": "Crafted for deep work and high productivity."
+  }
+}

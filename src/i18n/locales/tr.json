@@ -1,0 +1,96 @@
+{
+  "app": {
+    "title": "PomoFocus Pro",
+    "subtitle": "Modern Pomodoro Sayacı ve Görev Yöneticisi"
+  },
+  "timer": {
+    "work": "Pomodoro",
+    "shortBreak": "Kısa Mola",
+    "longBreak": "Uzun Mola",
+    "start": "BAŞLAT",
+    "pause": "DURAKLAT",
+    "skip": "ATLA",
+    "reset": "SIFIRLA",
+    "session": "Seans",
+    "completed": "Tamamlandı"
+  },
+  "activeTask": {
+    "focusingOn": "Şu an odaklanılan",
+    "noActive": "Seçili görev yok. Aşağıdan bir görev seçin veya ekleyin!",
+    "unselect": "Seçimi kaldır"
+  },
+  "tasks": {
+    "heading": "Görevler",
+    "addPlaceholder": "Şu an ne üzerinde çalışıyorsunuz?",
+    "addButton": "Görev Ekle",
+    "filterAll": "Tümü",
+    "filterActive": "Yapılacaklar",
+    "filterCompleted": "Bitenler",
+    "clearCompleted": "Tamamlananları Sil",
+    "empty": "Henüz görev eklenmedi. Yukarıdan ilk görevinizi ekleyip başlayın!",
+    "deleteConfirm": "Bu görevi silmek istediğinize emin misiniz?",
+    "markDone": "Tamamlandı işaretle",
+    "markUndone": "Geri al"
+  },
+  "settings": {
+    "title": "Ayarlar ve Tercihler",
+    "durations": "Zamanlayıcı Süreleri (dakika)",
+    "workDuration": "Pomodoro",
+    "shortBreakDuration": "Kısa Mola",
+    "longBreakDuration": "Uzun Mola",
+    "longBreakInterval": "Uzun Mola Aralığı (seans)",
+    "automation": "Otomasyon",
+    "autoStartBreaks": "Molaları otomatik başlat",
+    "autoStartWork": "Pomodoroları otomatik başlat",
+    "sound": "Ses ve Bildirimler",
+    "alarmSound": "Alarm Tonu",
+    "soundBell": "Tibet Çanağı / Zil",
+    "soundChime": "Melodik Zil",
+    "soundDigital": "Dijital Alarm",
+    "volume": "Ses Seviyesi",
+    "testSound": "Sesi Test Et",
+    "desktopNotifications": "Masaüstü Bildirimleri",
+    "enableNotifications": "Bildirimleri Aç",
+    "notificationsActive": "Bildirimler aktif",
+    "notificationsBlocked": "Bildirimler tarayıcı tarafından engellendi",
+    "save": "Değişiklikleri Kaydet",
+    "resetDefaults": "Varsayılanlara Sıfırla"
+  },
+  "guide": {
+    "badge": "Verimlilik Rehberi",
+    "heading": "Pomodoro Tekniği ile Zamanınızı ve Dikkatinizi Yönetin",
+    "intro": "Pomodoro Tekniği, 1980'lerin sonunda Francesco Cirillo tarafından geliştirilmiş dünyaca ünlü bir zaman yönetimi yöntemidir. Çalışmayı geleneksel olarak 25 dakikalık odaklanma ve ardından gelen 5 dakikalık kısa molalarla bölerek zihinsel yorgunluğu önler.",
+    "step1Title": "1. Tek Bir Görev Belirleyin",
+    "step1Desc": "Listenizden tek bir iş seçin. Tüm dikkatinizi sadece bu göreve verin ve çoklu görevden (multitasking) kaçının.",
+    "step2Title": "2. Sayacı 25 Dakikaya Başlatın",
+    "step2Desc": "Zil çalana kadar sadece işinize odaklanın. Telefon veya sosyal medya gibi dikkat dağıtıcıları uzaklaştırın.",
+    "step3Title": "3. 5 Dakikalık Mola Verin",
+    "step3Desc": "Ekrandan uzaklaşın, ayağa kalkıp esneyin, su için veya derin nefes alarak zihninizi dinlendirin.",
+    "step4Title": "4. 4 Seans Sonra Uzun Mola",
+    "step4Desc": "4 pomodoro seansını tamamladıktan sonra kendinize 15-30 dakikalık hak ettiğiniz uzun bir mola verin.",
+    "faqHeading": "Sıkça Sorulan Sorular",
+    "faq1Q": "Pomodoro tekniği neden bu kadar etkili?",
+    "faq1A": "Kısa çalışma süreleri beynin odaklanma süresine tam uyum sağlar. Düzenli molalar zihinsel tükenmişliği (burnout) engeller.",
+    "faq2Q": "Sekmeyi kapatırsam görevlerim silinir mi?",
+    "faq2A": "Hayır! Tüm görevleriniz, ayarlarınız ve tema tercihiniz tarayıcınızın yerel hafızasında (LocalStorage) güvenle saklanır.",
+    "faq3Q": "Sekme arka plandayken sayaç durur mu?",
+    "faq3A": "Hayır. PomoFocus Pro, arka plan Web Worker ve zaman damgası senkronizasyonu kullandığı için sekme arkada olsa bile tam vaktinde çalar."
+  },
+  "legal": {
+    "privacyTitle": "Gizlilik Politikası",
+    "termsTitle": "Kullanım Koşulları",
+    "cookieText": "Deneyiminizi geliştirmek, tercihlerinizi kaydetmek ve reklam sunabilmek için yerel depolama ve çerezler kullanıyoruz.",
+    "cookieAccept": "Anladım",
+    "cookiePolicy": "Gizlilik Politikası"
+  },
+  "ad": {
+    "sponsored": "Sponsorlu Reklam",
+    "bannerText": "Reklam Alanı"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "tagline": "Derin odaklanma ve yüksek üretkenlik için tasarlandı."
+  }
+}
